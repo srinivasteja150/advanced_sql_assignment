@@ -37,7 +37,7 @@ Write a query that shows average daily revenue of all Sundays.
 ### Question 7
 Write a query to create a list that shows how much the average customer spent in total (customer life-time value) grouped by the different districts.
 
-<img width="1072" alt="question7" src="https://user-images.githubusercontent.com/122455311/221528096-25ea7875-99f5-43d2-8e2b-e8c5555c436f.png">
+<img width="991" alt="question7" src="https://user-images.githubusercontent.com/122455311/221576556-37150b26-9cb4-4352-b050-bd4ffd0205ae.png">
 
 ### Question 8
 Write a query to list down the highest overall revenue collected (sum of amount per title) by a film in each category. Result should display the film title, category name and total revenue.

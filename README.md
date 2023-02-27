@@ -32,7 +32,7 @@ Write a query to create a list with the average of the sales amount each staff_i
 ### Question 6
 Write a query that shows average daily revenue of all Sundays.
 
-<img width="926" alt="question6" src="https://user-images.githubusercontent.com/122455311/221528003-db94fbfe-5fc4-46fa-997f-f0dfa9447ecc.png">
+<img width="960" alt="question6" src="https://user-images.githubusercontent.com/122455311/221546110-a99072d1-81b0-4278-a8de-e5e74026404b.png">
 
 ### Question 7
 Write a query to create a list that shows how much the average customer spent in total (customer life-time value) grouped by the different districts.

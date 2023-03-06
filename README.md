@@ -53,6 +53,11 @@ Write a query to count the total number of addresses from the “address” tabl
 
 <img width="1012" alt="question11" src="https://user-images.githubusercontent.com/122455311/221528523-8807ed03-0e4d-4d21-b4a4-fb73d2e5605c.png">
 
+### Question 12
+Write a query to create a materialized view from the “payment” table where ‘amount’ is between(inclusive) $5 to $8. The view should manually refresh on demand. Also write a query to manually refresh the created materialized view.
+
+<img width="1149" alt="question12" src="https://user-images.githubusercontent.com/122455311/223089892-5a96fdf9-30cc-4151-9f6d-abaa3de48f2d.png">
+
 ### Question 13
 Write a query to list down the total sales of each staff with each customer from the ‘payment’ table. In the same result, 
 list down the total sales of each staff i.e. sum of sales from all customers for a particular staff. Use the ROLLUP command.

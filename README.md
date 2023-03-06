@@ -64,4 +64,5 @@ Also use GROUPING command to indicate null values.
  Write a single query to display the customer_id, staff_id, payment_id, amount, amount on immediately previous payment_id, 
  amount on immediately next payment_id ny_sales for the payments from customer_id ‘269’ to  staff_id ‘1’.
 
-<img width="1148" alt="question14" src="https://user-images.githubusercontent.com/122455311/223085039-5ea27497-6e50-4223-bf39-fedcbf629acf.png">
+<img width="1070" alt="question14" src="https://user-images.githubusercontent.com/122455311/223086363-7e797bff-a2f2-4b32-b027-55b5c442e60a.png">
+
